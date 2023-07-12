@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Restaurant {
 	
 	public static void menu() {
-		System.out.println("\n\tWelcome To Takeo Restaurant: ");
+		System.out.println("\n\tWelcome To T Restaurant: ");
 		System.out.println("******************************************");
 		System.out.println("\t[1] Biryani Menu ");
 		System.out.println("\t[2] Drinks Menu ");
